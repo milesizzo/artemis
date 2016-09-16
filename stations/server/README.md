@@ -1,2 +1,2 @@
-# artemis
+# artemis - server
 Artemis SBS files

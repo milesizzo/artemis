@@ -1,4 +1,4 @@
-# artemis
+# artemis - helm (jump)
 Artemis helm configuration for JUMP drive.
 
 *Not complete!*

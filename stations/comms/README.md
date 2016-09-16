@@ -1,2 +1,2 @@
-# artemis
-Artemis SBS files
+# artemis - comms
+Configured for touch-screen.

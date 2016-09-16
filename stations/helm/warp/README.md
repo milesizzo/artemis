@@ -1,7 +1,6 @@
-# artemis
-Artemis helm configuration.
-
-Includes Pinnacle Game Profiler configuration for Thrustmaster T.Flight Hotas X.
+# artemis - helm (warp)
+Artemis helm configuration. Requires Pinnacle Game Profiler to be
+running.
 
 Joystick configuration:
 * Throttle controls warp (bottom position is full stop)

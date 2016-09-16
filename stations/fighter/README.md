@@ -1,7 +1,6 @@
-# artemis
-Artemis configuration for Fighter.
-
-NOTE! Does *not* require any external joy-to-key type programs!
+# artemis - fighter
+Artemis configuration for Fighter. Requires Pinnacle Game Profiler to be
+running.
 
 Controls are:
 * Main joystick controls dive and yaw
