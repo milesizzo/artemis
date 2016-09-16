@@ -1,6 +1,8 @@
 # artemis
 Artemis configuration for Fighter.
 
+NOTE! Does *not* require any external joy-to-key type programs!
+
 Controls are:
 * Main joystick controls dive and yaw
 * Main joystick twist controls roll
