@@ -1,8 +1,0 @@
-Windows Registry Editor Version 5.00
-[HKEY_CURRENT_USER\SOFTWARE\ArtemisSBS]
-"musicObjectMasterVolume"="0"
-"musicObjectMasterMute"="0"
-"commsObjectMasterVolume"="1"
-"commsObjectMasterMute"="0"
-"networkTickSpeed"="200"
-"IPAddress"="192.168.1.21"
