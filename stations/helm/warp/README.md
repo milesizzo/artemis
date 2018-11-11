@@ -14,3 +14,5 @@ Joystick configuration:
 * Button 7 (on throttle) = Main screen to INFO
 * Buttons 11 and 12 (near glowing button) = change client console view
 * D-pad controls main screen VIS view
+
+If Artemis doesn't recognise the main joystick, you might need to set `JOY0` to `JOY1` in `controls.ini`.
